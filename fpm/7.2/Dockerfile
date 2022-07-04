@@ -1,4 +1,4 @@
-FROM akeneo/php:7.2
+FROM pcmt/php:7.2
 MAINTAINER Damien Carcel <damien.carcel@akeneo.com>
 
 # Install PHP FPM
